@@ -1,5 +1,3 @@
-## 🐍 Contribution Graph Animation
+## 🐍 Contribution Visualization
 
-Watch the snake eat up my contributions! 🎮
-
-![Snake Animation](https://raw.githubusercontent.com/Ankit-CSE-01/Ankit-CSE-01/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Ankit-CSE-01&theme=github-dark)
