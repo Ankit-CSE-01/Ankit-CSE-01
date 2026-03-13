@@ -14,7 +14,7 @@ I'm **Ankit**, a passionate **Computer Science Engineering graduate** and **Full
 - 🌱 Always learning **new technologies and best practices**
 - 👯 Open to **collaborating on open-source projects**
 - 💡 Interested in **Cloud Technologies & DevOps**
-- 📫 Feel free to reach out: **ankit.cse.01@gmail.com**
+- 📫 Feel free to reach out: **73ankitkrsingh@gmail.com**
 
 ---
 
