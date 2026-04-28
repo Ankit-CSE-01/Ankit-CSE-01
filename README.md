@@ -126,9 +126,8 @@ Other content remains unchanged.
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to:
 
-- 📧 **Email:** ankit.cse.01@gmail.com
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ankit-cse-01)
-- 🐦 **Twitter:** [@ankit_cse_01](https://twitter.com/ankit_cse_01)
+- 📧 **Email:** 73ankitkrsingh@gmail.com
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ankit-raj-006667218/)
 
 ---
 
