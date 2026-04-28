@@ -80,10 +80,13 @@ I'm **Ankit**, a passionate **Computer Science Engineering graduate** and **Full
 ## 🎯 Featured Projects
 
 I'm proud of the projects I've worked on. Check out some of my best work:
+# My Projects
+- 🔗 **[ChatApp](https://github.com/Ankit-CSE-01/ChatApp)** - Real-time chat app using Socket.IO for communication
+- 🔗 **[TravelEase](https://github.com/Ankit-CSE-01/TravelEase)** - MERN app to find nearby hospitals/hotels/restaurants/petrol pumps/repair shops, includes Emergency SOS via Google Maps
+  API, plus booking and delivery services
+- 🔗 **[MediQure](https://github.com/Ankit-CSE-01/MediQure)** - Find nearby hospitals with an AI chatbot assistant using php
 
-- 🔗 **[Project 1](#)** - Description of your awesome project
-- 🔗 **[Project 2](#)** - Description of another great project
-- 🔗 **[Project 3](#)** - Description of your innovative project
+Other content remains unchanged.
 
 ---
 
